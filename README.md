@@ -16,6 +16,7 @@ Basiskennis HTML/CSS (optioneel JS) eerst.
 - Headers
 - Superglobals
 - Flow van PHP applicaties
+- Debugging Tips
 
 ### Oefeningen:
 #### 1 - Hallo!
